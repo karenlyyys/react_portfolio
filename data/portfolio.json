@@ -1,0 +1,105 @@
+{
+    "name": "Karen Ly",
+    "headerTaglineOne": "Hello 👋",
+    "headerTaglineTwo": "I'm Karen Ly - entry level",
+    "headerTaglineThree": "developer",
+    "headerTaglineFour": "based in Seattle, Washington.",
+    "showCursor": true,
+    "showBlog": false,
+    "darkMode": true,
+    "showResume": false,
+    "socials": [
+        {
+            "id": "1",
+            "title": "Github",
+            "link": "https://github.com/karenlyyys"
+        },
+        {
+            "id": "2",
+            "title": "LinkedIn",
+            "link": "https://www.linkedin.com/in/karenl96/"
+        }
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "Pokedex App",
+            "description": "This Pokédex is a web application built with HTML, CSS, and mainly JavaScript. It loads data from an external API and allows user to view the data in detail.",
+            "imageSrc": "https://karenlyyys.github.io/portfolio-website/img/screenshot_pokedex.png",
+            "url": "https://github.com/karenlyyys/pokedex-js"
+        },
+        {
+            "id": "2",
+            "title": "Movie API",
+            "description": "This is the server side component of myFlix Client. In this app, users are able to access informations about their favorite movies as well as create a list of their favorite movies.",
+            "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "https://github.com/karenlyyys/movie_api"
+        },
+        {
+            "id": "3",
+            "title": "myFlix Client",
+            "description": "This is the client side for myFlix app. It allows the user to create an account and retrieve more information about their selected movies. The user can also manage their account data.",
+            "imageSrc": "https://karenlyyys.github.io/portfolio-website/img/screenshot_myFlixclient.png",
+            "url": "https://github.com/karenlyyys/myFlix-client"
+        },
+        {
+            "id": "4",
+            "title": "Meet App",
+            "description": "A serverless PWA. This application allows users to access developer meet ups. Users can filter locations, number of events, and fetch upcoming events.",
+            "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+            "url": "https://github.com/karenlyyys/meet"
+        },
+        {
+            "id": "5",
+            "title": "Chat App",
+            "description": "A chat app for mobile devices using React Native. This app allows users to customize their chat screen before joining the chat. The users have the option to share images and their locations. The data gets store online and offline.",
+            "imageSrc": "https://karenlyyys.github.io/portfolio-website/img/screenshot_myapp.png",
+            "url": "https://github.com/karenlyyys/my-app"
+        },
+        {
+            "id": "6",
+            "title": "myFlix-Angular-client",
+            "description": "This is a client side for an app called myFlix. Users are able to access movie details and add/remove favorite movies from their list. The user can also manage their account data.",
+            "imageSrc": "https://karenlyyys.github.io/portfolio-website/img/screenshot_myflixangular.png",
+            "url": "https://github.com/karenlyyys/myFlix-Angular-client"
+        }
+    ],
+ 
+    "aboutpara": "I graduated from the University of Washington with a BA in Public Health in 2020. I started working at a Covid Testing Site during the pandemic and decided to look for a change of pace. I enrolled into the Web Development Bootcamp with Career Foundry and graduated in February 2023. I am currently focusing my skills on React.",
+    "resume": {
+        "tagline": "👋  I'm a entry level software engineer.",
+        "description": "I have experience with React, Javascript, and most of the Web frameworks.",
+        "experiences": [
+            {
+                "id": "1",
+                "dates": "March 2022 - Present",
+                "type": "Full Time",
+                "position": "Frontend Engineer at X",
+                "bullets": "Bullet One, Bullet Two"
+            },
+            {
+                "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+                "dates": "July 2020 - March 2022",
+                "type": "Full Time",
+                "position": "Frontend Engineer at X",
+                "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+            }
+        ],
+        "education": {
+            "universityName": "Career Foundry",
+            "universityDate": "2022-2023",
+            "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+        },
+        "languages": [
+            "Javascript",
+            "HTML",
+            "CSS"
+        ],
+        "frameworks": [
+            "React",
+            "Typescript",
+            "Angular",
+            "NodeJs"
+        ]
+    }
+}
